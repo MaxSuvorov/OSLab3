@@ -13,7 +13,7 @@
 
 ## Сборка
 
-### Linux/macOS:
+### Linux:
 ```bash
 mkdir build
 cd build
